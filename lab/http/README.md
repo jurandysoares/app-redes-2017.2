@@ -33,3 +33,19 @@ Ou /var/www/$USER/cgi-bin/
 
   * Linux/Mac: `/etc/hosts`
   * Windows: `C:\Windows\System32\Drivers\etc\hosts`
+  
+  Conteúdo: 
+  /```
+# <IP>          <Nome>
+10.210.X.Y     nome-sobrenome.ifrn.lab
+                 \____________/
+                   Seu usuário
+  ```
+ 
+4. Acessar seu navegador Web: 
+
+```
+http://nome-sobrenome.ifrn.lab
+       \____________/
+        Seu usuário
+```
