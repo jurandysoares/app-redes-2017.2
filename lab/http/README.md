@@ -3,6 +3,7 @@
 ## Telnet
 
 ## Curl
+Ver [material](https://github.com/lrlucena/webapp/blob/master/conteudo/http.md) do professor [Leonardo Lucena](https://github.com/lrlucena).
 
 ## Python
 
@@ -28,6 +29,7 @@ Ou /var/www/$USER/html
 Ou /var/www/$USER/cgi-bin/
 ```
 
-2. Configurar sua agenda local de endereços IP:
-  a. Linux/Mac: `/etc/hosts`
-  b. Windows: `C:\Windows\System32\Drivers\etc\hosts`
+3. Configurar sua agenda local de endereços IP:
+
+  * Linux/Mac: `/etc/hosts`
+  * Windows: `C:\Windows\System32\Drivers\etc\hosts`
